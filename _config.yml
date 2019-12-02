@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-logo: "/assets/images/logo-150x150.jpeg"
+logo: "/assets/images/logo-200x200.png"
 title: Altertek
 title_separator: "|"
 subtitle: "the other side of the tek"
