@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+include: ["_pages"]
 logo: "/assets/images/logo-200x200.png"
 title: Altertek
 title_separator: "|"
@@ -42,11 +43,12 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/atertek"
+      url: "https://twitter.com/altertek"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/atlertek"
-
+      url: "https://github.com/altertek"
+    - label: "Sustainable web"
+      url: "https://www.sustainablewebmanifesto.com/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
