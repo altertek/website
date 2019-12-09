@@ -9,26 +9,27 @@ header:
   overlay_image: https://i.pinimg.com/originals/bd/46/81/bd46818ff255aa8ab53285eb69bb09a8.png
   overlay_color: "#fff"
 feature_row:
-  - image_path: https://cdn.pixabay.com/photo/2015/05/17/21/02/human-771601_960_720.jpg
-    alt: "placeholder image 1"
-    title: "Optimiser"
-    excerpt: "Parce que la technologie s'utilise, nous pensons qu'une meilleur utilisation de celle-ci permettrai d'avoir un impact possitif sur notre environment"
+  - image_path: https://cdn.pixabay.com/photo/2018/06/21/20/23/lamp-3489395_960_720.jpg
+    alt: "reduire"
+    title: "Réduire"
+    excerpt: "Recherche de solutions afin de réduire la consommation liée aux nouvelles technologies pour une sobriété numérique"
   - image_path: https://cdn.pixabay.com/photo/2015/07/28/20/55/tools-864983_960_720.jpg
-    alt: "placeholder image 2"
+    alt: "créer"
     title: "Créer"
-    excerpt: "Nous créons des outils nous paraissant pertinent pour nous aider dans notre lutte pour la sauvegarde de notre environnement"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    excerpt: "Création et promotion d'outils permettant de diminuer notre empreinte écologique."
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--inverse"
   - image_path: https://cdn.pixabay.com/photo/2016/09/03/09/18/girl-1641215_960_720.jpg
+    alt: "éduquer"
     title: "Éduquer"
-    excerpt: "Beaucoup "
+    excerpt: "Sensibilisation, mise en place guides de bonnes pratiques"
 
 ---
 # Qui sommes-nous ?
-Altertek est une association ayant pour but de proposer des alternatives en terme d'usage, de conception et de consommation posant soutenir la cause environnementale.
+Altertek est une association ayant pour but de proposer des alternatives en terme d'usage, de conception et de consommation des Technologies de l'information et de la communication pouvant soutenir la cause environnementale.
 
-## Ce que nous faisons
+## Nos missions
 
 
 {% include feature_row %}
