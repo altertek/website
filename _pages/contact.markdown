@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
 
 Vous êtes des questions ou souhaitez entrer en contact avec nous ?
