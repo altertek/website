@@ -5,3 +5,5 @@ main:
     url: /about
   - title: "Contribuez"
     url: /contribute
+  - title: "Contact"
+    url: /contact
