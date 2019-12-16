@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Contribuez
+title: Contribuer
 permalink: /contribute/
 ---
 
