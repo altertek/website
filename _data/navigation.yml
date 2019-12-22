@@ -1,8 +1,8 @@
 main:
-  - title: "Projets et actions"
-    url: /projects
-  - title: "L'association"
-    url: /about
+ # - title: "Projets et actions"
+ #   url: /projects
+ # - title: "L'association"
+ #   url: /about
   - title: "Contribuez"
     url: /contribute
   - title: "Contact"
