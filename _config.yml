@@ -28,7 +28,7 @@ email: contact@altertek.org
 description: >- # this means to ignore newlines until "baseurl:"
    Atertek a pour vocation de soutenir des projets ayant pour mission la promotion de l'environement.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://altertek.org" # the base hostname & protocol for your site
 twitter_username: altertek
 github_username:  altertek
 
