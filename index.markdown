@@ -23,11 +23,11 @@ feature_row:
   - image_path: https://cdn.pixabay.com/photo/2016/09/03/09/18/girl-1641215_960_720.jpg
     alt: "éduquer"
     title: "Éduquer"
-    excerpt: "Sensibilisation, mise en place guides de bonnes pratiques"
+    excerpt: "Sensibilisation et mise en place de guides de bonnes pratiques"
 
 ---
 # Qui sommes-nous ?
-Altertek est une association ayant pour but de proposer des alternatives en terme d'usage, de conception et de consommation des Technologies de l'information et de la communication pouvant soutenir la cause environnementale.
+Altertek est une association ayant pour but de proposer des alternatives en terme d'usage et de conception des Technologies de l'Information et de la Communication pouvant soutenir la cause environnementale.
 
 ## Nos missions
 
