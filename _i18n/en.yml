@@ -1,0 +1,25 @@
+global:
+  english: "English"
+  french: "Français"
+
+titles:
+  contact: "Contact"
+  contribute: "Contribute"
+
+index:
+  - image_path: "/assets/images/lamp.jpg"
+    title: "Reduce"
+    excerpt: "Research to reduce technology consumption as a whole towards a digital sobriety."
+  - image_path: "/assets/images/tools.jpg"
+    title: "Create"
+    excerpt: "Creating and promoting tools diminishing our ecological footprint."
+  - image_path: "/assets/images/educate.jpg"
+    title: "Educate"
+    excerpt: "Raise public awareness and  publish good practice guides."
+
+menu:
+  - title: Contribute
+    namespace: contribute
+  - title: Contact
+    namespace: contact
+#    url: /contact

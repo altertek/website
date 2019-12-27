@@ -34,10 +34,13 @@ github_username:  altertek
 
 
 # Build settings
+languages: ["en", "fr"]
+exclude_from_localizations: ["javascript", "images", "css"]
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: air
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 
 footer:
   links:
