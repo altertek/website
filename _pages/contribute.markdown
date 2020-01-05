@@ -1,12 +1,9 @@
 ---
 layout: single
-title: Contribuer
+namespace: contribute
+title: titles.contribute
 permalink: /contribute/
+permalink_fr: /contribuer/
 ---
 
-Pour faire des retours sur nos applications et services, proposer des améliorations rendez-vous sur github:
-[Altertek](https://github.com/altertek){:target="_blank"}
-
-Vous pouvez aussi faire un don pour permettre à l'association de financer ses projets et son infrastructure : [Formulaire](https://www.helloasso.com/associations/altertek/formulaires/1){:target="_blank"}
-
-Pour toute autre proposition, contactez-nous directement : [Page de contact](/contact){:target="_blank"}
+{% translate_file contribute.md %}

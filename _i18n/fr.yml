@@ -1,0 +1,25 @@
+global:
+  english: "English"
+  french: "Français"
+
+titles:
+  contact: "Contact"
+  contribute: "Contribuer"
+
+index:
+  - image_path: "/assets/images/lamp.jpg"
+    title: "Réduire"
+    excerpt: "Recherche de solutions afin de réduire la consommation liée aux nouvelles technologies pour une sobriété numérique"
+  - image_path: "/assets/images/tools.jpg"
+    title: "Créer"
+    excerpt: "Création et promotion d'outils permettant de diminuer notre empreinte écologique."
+  - image_path: "/assets/images/educate.jpg"
+    title: "Éduquer"
+    excerpt: "Sensibilisation et mise en place de guides de bonnes pratiques"
+
+menu:
+  - title: Contribuer
+    namespace: contribute
+  - title: Contact
+    namespace: contact
+#    url: /contact
