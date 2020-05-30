@@ -44,6 +44,8 @@ plugins:
 
 footer:
   links:
+    - label: "Legal"
+      url: "legal"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/altertek"
