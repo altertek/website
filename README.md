@@ -12,7 +12,7 @@
 ## Installation
 
 ```
-git clone git@github.com:saxjst/website.git
+git clone git@github.com:altertek/website.git
 cd website
 bundle install
 ```
