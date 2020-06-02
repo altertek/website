@@ -5,6 +5,7 @@ global:
 titles:
   contact: "Contact"
   contribute: "Contribuer"
+  legal: "Mentions légales"
 
 index:
   - image_path: "/assets/images/lamp.jpg"
