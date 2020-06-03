@@ -6,15 +6,15 @@
 
 ## prerequisites
 
-- install ruby >= 2.4
-- install jekyll
-
+```
+apt-get install ruby-bundler ruby-dev
+```
 ## Installation
 
 ```
 git clone git@github.com:altertek/website.git
 cd website
-bundle install
+bundle install --path vendor/bundle
 ```
 
 ## Generate static website
