@@ -6,9 +6,11 @@
 
 ## prerequisites
 
+- install ruby >= 2.4
 ```
 apt-get install ruby-bundler ruby-dev
 ```
+
 ## Installation
 
 ```

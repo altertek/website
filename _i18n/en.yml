@@ -6,6 +6,7 @@ titles:
   contact: "Contact"
   contribute: "Contribute"
   legal: "Legal notice"
+  about: "About us"
 
 index:
   - image_path: "/assets/images/lamp.jpg"
@@ -23,4 +24,6 @@ menu:
     namespace: contribute
   - title: Contact
     namespace: contact
+  - title: About
+    namespace: about
 #    url: /contact
