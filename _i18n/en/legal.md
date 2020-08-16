@@ -26,7 +26,7 @@ Except stated otherwise, all the content of the website is published under [Crea
 
 
 ## Responsability  
-By using Altertek's services, you are responsible for the content generated and/or transferred to our services. 
+By using Altertek's services, you are responsible for the content generated and/or transferred to our services.
 You may not use Altertek services for malicious or illegal purposes.  
 Any trade or account resale is strictly prohibited.  
 The creation of user accounts by robots or automated means is not allowed.  
@@ -61,6 +61,10 @@ Everything is hosted on servers on the mainland; including our service providers
 # Cookies  
 Altertek.org does not use any cookies  
 It is possible that the services hosted by Altertek use technical and/or login cookies, please consult their terms of use.  
+
+# Third parties
+Here is the list of our used third parties:
+- [Helloasso](https://www.helloasso.com/) : Solution allowing associations and clubs to receive payments over the Internet
 
 # Advertising  
 Altertek does not include any external advertising and has no intention of implementing any such advertising in the future.  
