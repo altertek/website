@@ -63,8 +63,8 @@ Altertek.org does not use any cookies
 It is possible that the services hosted by Altertek use technical and/or login cookies, please consult their terms of use.  
 
 # Third parties
-Here is the list of our used third parties:
-- [Helloasso](https://www.helloasso.com/) : Solution allowing associations and clubs to receive payments over the Internet
+List of external entities used by Altertek:
+- [Helloasso](https://www.helloasso.com/) : Service allowing associations to receive donations and contributions
 
 # Advertising  
 Altertek does not include any external advertising and has no intention of implementing any such advertising in the future.  

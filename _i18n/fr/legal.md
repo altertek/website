@@ -67,7 +67,7 @@ Il est possible que les services hébergés par Altertek utilisent des cookies t
 
 # Prestataires
 Voici la liste de nos prestataires:
-- [Helloasso](https://www.helloasso.com/) : solution permettant à des associations et des clubs pour recevoir des paiements sur Internet
+- [Helloasso](https://www.helloasso.com/) : service permettant à des associations de recevoir des dons et des cotisations
 
 # Publicité  
 Altertek n'intègre aucune publicité externe et n'a aucune intention d'en mettre en place à l'avenir.  
